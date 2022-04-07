@@ -108,6 +108,18 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Kimmie",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }

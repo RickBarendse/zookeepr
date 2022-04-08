@@ -120,6 +120,17 @@
         "goofy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Seles",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
